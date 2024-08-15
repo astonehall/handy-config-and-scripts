@@ -5,11 +5,10 @@ Just some helpful scripts and config files I use to make life easier
 ## Scripts
 
 ### `components-directory.sh` - Maxosx / Linux
-### `components-directory.bat` - Windows
 
 Create a components folder with optional subfolders for components.
 
-### `create-component.sh` / `create-component.bat`
+### `create-component.sh` Macosx | Linux / `create-component.bat` Windows
 
 Create a new component with a template file.
 
